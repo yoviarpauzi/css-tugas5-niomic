@@ -1,0 +1,23 @@
+.div_menu {
+    background-color : #000;
+}
+.menu {
+    text-transform: uppercase;
+}
+td a {
+    color: #fff;
+}
+.slider-div {
+    text-align: center;
+    margin-top: 10px;
+}
+.content {
+    text-align: justify;
+
+}
+footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
